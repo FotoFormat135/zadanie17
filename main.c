@@ -25,7 +25,7 @@ float sphere(){
 int main(){
 	int w;
 
-	ptintf("Oblicz objetosc\n-----------\n1.Prostopadloscianu\n2.Kuli\n:");
+	printf("Oblicz objetosc\n-----------\n1.Prostopadloscianu\n2.Kuli\n:");
 	scanf("%d", &w);
 
 	switch(w){
